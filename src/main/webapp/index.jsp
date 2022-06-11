@@ -19,7 +19,6 @@ img {
 <p>The second image uses the style attribute to set the width to 128 pixels, this will not be overridden by the style in the head section:</p>
 
 <img src="https://pps.whatsapp.net/v/t61.24694-24/234651377_495984182022262_2821794450528194657_n.jpg?ccb=11-4&oh=01_AVw0kNMjq-gIWv-pMbK7hQ8GVlLCnkAr3gL2F_dS7D_5dQ&oe=624625A6" alt="https://pps.whatsapp.net/v/t61.24694-24/234651377_495984182022262_2821794450528194657_n.jpg?ccb=11-4&oh=01_AVw0kNMjq-gIWv-pMbK7hQ8GVlLCnkAr3gL2F_dS7D_5dQ&oe=624625A6" style="width:128px;height:128px;">
-<img src="https://pps.whatsapp.net/v/t61.24694-24/234651377_495984182022262_2821794450528194657_n.jpg?ccb=11-4&oh=01_AVw0kNMjq-gIWv-pMbK7hQ8GVlLCnkAr3gL2F_dS7D_5dQ&oe=624625A6" alt="https://pps.whatsapp.net/v/t61.24694-24/234651377_495984182022262_2821794450528194657_n.jpg?ccb=11-4&oh=01_AVw0kNMjq-gIWv-pMbK7hQ8GVlLCnkAr3gL2F_dS7D_5dQ&oe=624625A6" style="width:128px;height:128px;">
 
 </body>
 </html>
